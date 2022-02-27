@@ -1,0 +1,13 @@
+{
+    "users": [{
+        "ID": "1",
+        "Username": "usertesting@test.com",
+        "Password": "$2a$14$HX09NEZcCCmpyKNlIF71DOxDfuh3y2HREjGETGe3FekgyrA2S//yy",
+        "IsLogin": false
+    }, {
+        "ID": "2",
+        "Username": "usertesting2@test.com",
+        "Password": "$2a$14$HX09NEZcCCmpyKNlIF71DOxDfuh3y2HREjGETGe3FekgyrA2S//yy",
+        "IsLogin": true
+    }]
+}
